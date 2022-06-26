@@ -14,7 +14,7 @@ and welcome to my profile! I'm a full stack web developer based in London, UK, a
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=3A76F0)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=3A76F0)
 ![Heroku](https://img.shields.io/badge/-Heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=3A76F0)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=3A76F0)
+<!-- ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=3A76F0) -->
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhards&theme=radical&title_color=3A76F0&text_color=fff" height="200">
