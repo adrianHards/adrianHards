@@ -13,8 +13,8 @@ and welcome to my profile! I'm a full stack web developer based in London, UK, a
 ![Rails](https://img.shields.io/badge/-Ruby_on_Rails-grey?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=3A76F0)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhards&theme=radical&title_color=3A76F0&text_color=fff" height="250">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianhards&show_icons=true&theme=radical&title_color=3A76F0&text_color=fff&icon_color=3A76F0" height="250">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhards&theme=radical&title_color=3A76F0&text_color=fff" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=adrianhards&show_icons=true&theme=radical&title_color=3A76F0&text_color=fff&icon_color=3A76F0" height="200">
 </div>
 
 <p align="center">
