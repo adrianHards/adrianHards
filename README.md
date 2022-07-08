@@ -20,6 +20,8 @@ and welcome to my profile! I'm a front end developer based in London, UK, and co
 <!-- ![R](https://img.shields.io/badge/-R-grey?style=for-the-badge&logo=r&logoColor=white&labelColor=3A76F0) -->
 <!-- ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=3A76F0) -->
 
+<!-- link to icons: https://github.com/Ileriayo/markdown-badges -->
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhards&theme=radical&title_color=3A76F0&text_color=fff" height="200">
   <img src="https://github-readme-stats.vercel.app/api?username=adrianhards&show_icons=true&theme=radical&title_color=3A76F0&text_color=fff&icon_color=3A76F0" height="200">
