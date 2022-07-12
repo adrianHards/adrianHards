@@ -1,4 +1,4 @@
-### Hello there
+### hello world
 
 and welcome to my profile! I'm a front end developer based in London, UK, and co-creator of [Trace](http://www.playtracewith.me/). My current focus is on React. Thanks for visiting, let's get in [touch](https://www.linkedin.com/in/adrianhards/)!
 
