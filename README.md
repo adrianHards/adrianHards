@@ -6,7 +6,7 @@ And welcome to my profile! I'm a front end developer based in London, UK, and co
 <br>
 <br>
 
-#### Future Tech Stack
+#### Aspiring Tech Stack
 ![GraphQL](https://img.shields.io/badge/-GraphQL-grey?style=for-the-badge&logo=graphql&logoColor=white&labelColor=3A76F0)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=3A76F0)
 ![NodeJS](https://img.shields.io/badge/-Node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=3A76F0)
