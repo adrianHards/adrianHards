@@ -8,7 +8,6 @@ And welcome to my profile! I'm a front end developer based in London, UK, and co
 
 #### Learning
 ![GraphQL](https://img.shields.io/badge/-GraphQL-grey?style=for-the-badge&logo=graphql&logoColor=white&labelColor=3A76F0)
-![NodeJS](https://img.shields.io/badge/-Node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=3A76F0)
 ![React](https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=3A76F0)
 ![Redux](https://img.shields.io/badge/-Redux-grey?style=for-the-badge&logo=redux&logoColor=white&labelColor=3A76F0)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-grey?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=3A76F0)
