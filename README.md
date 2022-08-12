@@ -1,6 +1,6 @@
 ### Hello, World
 
-And welcome to my profile! I'm a front end developer based in London, UK, and co-creator of [Trace](http://www.playtracewith.me/). My current focus is on React. Thanks for visiting, let's get in [touch](https://www.linkedin.com/in/adrianhards/)!
+And welcome to my profile! I'm a full stack developer based in London, UK, and co-creator of [Trace](http://www.playtracewith.me/). My current focus is on React. Thanks for visiting, let's get in [touch](https://www.linkedin.com/in/adrianhards/)!
 
 [![Linkedin Badge](https://img.shields.io/badge/-adrianHards-3A76F0?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/adrianhards/)
 <br>
