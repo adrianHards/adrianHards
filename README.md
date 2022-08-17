@@ -7,13 +7,16 @@ And welcome to my profile! I'm a full stack developer based in London, UK, and c
 <br>
 
 #### Learning
-![Cypress](https://img.shields.io/badge/-Cypress-1C1E2E?style=for-the-badge&logo=cypress&logoColor=white&labelColor=03C28E)
+
 ![GraphQL](https://img.shields.io/badge/-GraphQL-1C1E2E?style=for-the-badge&logo=graphql&logoColor=white&labelColor=DA0193)
-![Jest](https://img.shields.io/badge/-Jest-1C1E2E?style=for-the-badge&logo=jest&logoColor=white&labelColor=14C213)
+![Nodejs](https://img.shields.io/badge/-Nodejs-1C1E2E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=74AD5D)
 ![React](https://img.shields.io/badge/-React-1C1E2E?style=for-the-badge&logo=react&logoColor=white&labelColor=5ED3F3)
 ![Redux](https://img.shields.io/badge/-Redux-1C1E2E?style=for-the-badge&logo=redux&logoColor=white&labelColor=7248B6)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-1C1E2E?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=38BDF9)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1C1E2E?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2F74C0)
+
+<!-- ![Cypress](https://img.shields.io/badge/-Cypress-1C1E2E?style=for-the-badge&logo=cypress&logoColor=white&labelColor=03C28E) -->
+<!-- ![Jest](https://img.shields.io/badge/-Jest-1C1E2E?style=for-the-badge&logo=jest&logoColor=white&labelColor=14C213) -->
 
 
 
