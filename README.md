@@ -8,24 +8,24 @@ And welcome to my profile! I'm a full stack developer based in London, UK, and c
 
 #### Learning
 
-![GraphQL](https://img.shields.io/badge/-GraphQL-1C1E2E?style=for-the-badge&logo=graphql&logoColor=white&labelColor=DA0193)
-![Nodejs](https://img.shields.io/badge/-Nodejs-1C1E2E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=74AD5D)
-![React](https://img.shields.io/badge/-React-1C1E2E?style=for-the-badge&logo=react&logoColor=white&labelColor=5ED3F3)
-![Redux](https://img.shields.io/badge/-Redux-1C1E2E?style=for-the-badge&logo=redux&logoColor=white&labelColor=7248B6)
-![Tailwind](https://img.shields.io/badge/-Tailwind-1C1E2E?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=38BDF9)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1C1E2E?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2F74C0)
+![GraphQL](https://img.shields.io/badge/-GraphQL-1C1E2E?style=for-the-badge&logo=graphql&logoColor=white&labelColor=3A76F0)
+![Nodejs](https://img.shields.io/badge/-Nodejs-1C1E2E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=3A76F0)
+![React](https://img.shields.io/badge/-React-1C1E2E?style=for-the-badge&logo=react&logoColor=white&labelColor=3A76F0)
+![Redux](https://img.shields.io/badge/-Redux-1C1E2E?style=for-the-badge&logo=redux&logoColor=white&labelColor=3A76F0)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1C1E2E?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3A76F0)
 
-<!-- ![Cypress](https://img.shields.io/badge/-Cypress-1C1E2E?style=for-the-badge&logo=cypress&logoColor=white&labelColor=03C28E) -->
-<!-- ![Jest](https://img.shields.io/badge/-Jest-1C1E2E?style=for-the-badge&logo=jest&logoColor=white&labelColor=14C213) -->
+<!-- ![Cypress](https://img.shields.io/badge/-Cypress-1C1E2E?style=for-the-badge&logo=cypress&logoColor=white&labelColor=3A76F0) -->
+<!-- ![Jest](https://img.shields.io/badge/-Jest-1C1E2E?style=for-the-badge&logo=jest&logoColor=white&labelColor=3A76F0) -->
 
 
 
 #### Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-1C1E2E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7E01C)
-![HTML](https://img.shields.io/badge/-HTML-1C1E2E?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF5622)
-![CSS](https://img.shields.io/badge/-CSS-1C1E2E?style=for-the-badge&logo=css3&logoColor=white&labelColor=254BDD)
-![Ruby](https://img.shields.io/badge/-Ruby-1C1E2E?style=for-the-badge&logo=ruby&logoColor=white&labelColor=B51505)
-![Rails](https://img.shields.io/badge/-Rails-1C1E2E?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=C60400)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1C1E2E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=3A76F0)
+![HTML](https://img.shields.io/badge/-HTML-1C1E2E?style=for-the-badge&logo=html5&logoColor=white&labelColor=3A76F0)
+![CSS](https://img.shields.io/badge/-CSS-1C1E2E?style=for-the-badge&logo=css3&logoColor=white&labelColor=3A76F0)
+![Ruby](https://img.shields.io/badge/-Ruby-1C1E2E?style=for-the-badge&logo=ruby&logoColor=white&labelColor=3A76F0)
+![Rails](https://img.shields.io/badge/-Rails-1C1E2E?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=3A76F0)
+![Tailwind](https://img.shields.io/badge/-Tailwind-1C1E2E?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=3A76F0)
 <!-- ![Heroku](https://img.shields.io/badge/-Heroku-1C1E2E?style=for-the-badge&logo=heroku&logoColor=white&labelColor=3A76F0) -->
 <!-- ![R](https://img.shields.io/badge/-R-1C1E2E?style=for-the-badge&logo=r&logoColor=white&labelColor=3A76F0) -->
 <!-- ![git](https://img.shields.io/badge/-git-1C1E2E?style=for-the-badge&logo=git&logoColor=white&labelColor=3A76F0) -->
