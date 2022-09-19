@@ -6,8 +6,8 @@ And welcome to my profile! I'm a full stack developer based in London, UK, and c
 <br>
 <br>
 
-### Experience with
-<div align="center">
+<div align="left">
+<strong>Experience with</strong>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1E2E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=3A76F0)
   ![HTML](https://img.shields.io/badge/-HTML-1C1E2E?style=for-the-badge&logo=html5&logoColor=white&labelColor=3A76F0)
@@ -22,8 +22,9 @@ And welcome to my profile! I'm a full stack developer based in London, UK, and c
 
 </div>
 
-### Learning
-<div align="center">
+
+<div align="right">
+<strong>Learning</strong>
 
   ![GraphQL](https://img.shields.io/badge/-GraphQL-1C1E2E?style=for-the-badge&logo=graphql&logoColor=white&labelColor=3A76F0)
   ![Jest](https://img.shields.io/badge/-Jest-1C1E2E?style=for-the-badge&logo=jest&logoColor=white&labelColor=3A76F0)
