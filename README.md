@@ -1,6 +1,6 @@
-### Hello, World!
+### Hey there!
 
-And welcome to my profile. I'm a full stack developer based in London, UK, and co-creator of [Trace](http://www.playtracewith.me/). Thanks for visiting, let's get in [touch](https://www.linkedin.com/in/adrianhards/)!
+I’m a full stack web developer with experience in Ruby on Rails and React based in London, UK. Thanks for visiting, let's get in [touch](https://www.linkedin.com/in/adrianhards/)!
 
 [![Linkedin Badge](https://img.shields.io/badge/-adrianHards-3A76F0?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/adrianhards/)
 <br>
