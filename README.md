@@ -4,7 +4,6 @@ Thanks for visiting. I’m a full stack web developer with experience in Ruby on
 
  <!-- [![Linkedin Badge](https://img.shields.io/badge/-adrianHards-3A76F0?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/adrianhards/) -->
 <br>
-<br>
 
 <div align="left">
 <strong>Experience with</strong>
