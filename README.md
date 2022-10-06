@@ -21,7 +21,6 @@ Thanks for visiting. I’m a full stack web developer with experience in Ruby on
 
 </div>
 
-
 <div align="right">
 <strong>Learning</strong>
 
@@ -37,8 +36,7 @@ Thanks for visiting. I’m a full stack web developer with experience in Ruby on
 
 </div>
 
-
-
+<br>
 
 <!-- link to icons: https://github.com/Ileriayo/markdown-badges -->
 
