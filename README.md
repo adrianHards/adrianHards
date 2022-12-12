@@ -11,6 +11,7 @@ Thanks for visiting. I’m a full stack web developer with experience in Ruby on
   ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1E2E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=3A76F0)
   ![HTML](https://img.shields.io/badge/-HTML-1C1E2E?style=for-the-badge&logo=html5&logoColor=white&labelColor=3A76F0)
   ![CSS](https://img.shields.io/badge/-CSS-1C1E2E?style=for-the-badge&logo=css3&logoColor=white&labelColor=3A76F0)
+  ![React](https://img.shields.io/badge/-React-1C1E2E?style=for-the-badge&logo=react&logoColor=white&labelColor=3A76F0)
   ![Ruby](https://img.shields.io/badge/-Ruby-1C1E2E?style=for-the-badge&logo=ruby&logoColor=white&labelColor=3A76F0)
   ![Rails](https://img.shields.io/badge/-Rails-1C1E2E?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=3A76F0)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-1C1E2E?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=3A76F0)
@@ -27,7 +28,6 @@ Thanks for visiting. I’m a full stack web developer with experience in Ruby on
   ![GraphQL](https://img.shields.io/badge/-GraphQL-1C1E2E?style=for-the-badge&logo=graphql&logoColor=white&labelColor=3A76F0)
   ![Jest](https://img.shields.io/badge/-Jest-1C1E2E?style=for-the-badge&logo=jest&logoColor=white&labelColor=3A76F0)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-1C1E2E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=3A76F0)
-  ![React](https://img.shields.io/badge/-React-1C1E2E?style=for-the-badge&logo=react&logoColor=white&labelColor=3A76F0)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-1C1E2E?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3A76F0)
   
   <!-- ![Redux](https://img.shields.io/badge/-Redux-1C1E2E?style=for-the-badge&logo=redux&logoColor=white&labelColor=3A76F0) -->
