@@ -21,7 +21,7 @@ Thanks for visiting. I’m a full stack web developer with experience in Ruby on
   <!-- ![git](https://img.shields.io/badge/-git-1C1E2E?style=for-the-badge&logo=git&logoColor=white&labelColor=3A76F0) -->
 
 </div>
-
+<!-- 
 <div align="right">
 <strong>Learning</strong>
 
@@ -29,7 +29,7 @@ Thanks for visiting. I’m a full stack web developer with experience in Ruby on
   ![Jest](https://img.shields.io/badge/-Jest-1C1E2E?style=for-the-badge&logo=jest&logoColor=white&labelColor=3A76F0)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-1C1E2E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=3A76F0)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-1C1E2E?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3A76F0)
-  
+   -->
   <!-- ![Redux](https://img.shields.io/badge/-Redux-1C1E2E?style=for-the-badge&logo=redux&logoColor=white&labelColor=3A76F0) -->
   <!-- ![Cypress](https://img.shields.io/badge/-Cypress-1C1E2E?style=for-the-badge&logo=cypress&logoColor=white&labelColor=3A76F0) -->
   <!-- ![Jest](https://img.shields.io/badge/-Jest-1C1E2E?style=for-the-badge&logo=jest&logoColor=white&labelColor=3A76F0) -->
