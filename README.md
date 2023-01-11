@@ -15,6 +15,7 @@ Thanks for visiting. I’m a full stack web developer with experience in Ruby on
   ![RSpec](https://img.shields.io/badge/-RSpec-1C1E2E?style=for-the-badge&logo=ruby&logoColor=white&labelColor=3A76F0)
   ![Ruby](https://img.shields.io/badge/-Ruby-1C1E2E?style=for-the-badge&logo=ruby&logoColor=white&labelColor=3A76F0)
   ![Rails](https://img.shields.io/badge/-Rails-1C1E2E?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=3A76F0)
+  ![SASS](https://img.shields.io/badge/-SASS-1C1E2E?style=for-the-badge&logo=sass&logoColor=white&labelColor=3A76F0)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-1C1E2E?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=3A76F0)
   
   <!-- ![Heroku](https://img.shields.io/badge/-Heroku-1C1E2E?style=for-the-badge&logo=heroku&logoColor=white&labelColor=3A76F0) -->
