@@ -9,8 +9,6 @@ Thanks for visiting. I’m a full stack web developer with experience in Ruby on
 <strong>Experience with</strong>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1E2E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=3A76F0)
-  ![HTML](https://img.shields.io/badge/-HTML-1C1E2E?style=for-the-badge&logo=html5&logoColor=white&labelColor=3A76F0)
-  ![CSS](https://img.shields.io/badge/-CSS-1C1E2E?style=for-the-badge&logo=css3&logoColor=white&labelColor=3A76F0)
   ![React](https://img.shields.io/badge/-React-1C1E2E?style=for-the-badge&logo=react&logoColor=white&labelColor=3A76F0)
   ![RSpec](https://img.shields.io/badge/-RSpec-1C1E2E?style=for-the-badge&logo=ruby&logoColor=white&labelColor=3A76F0)
   ![Ruby](https://img.shields.io/badge/-Ruby-1C1E2E?style=for-the-badge&logo=ruby&logoColor=white&labelColor=3A76F0)
@@ -26,6 +24,9 @@ Thanks for visiting. I’m a full stack web developer with experience in Ruby on
 <!-- 
 <div align="right">
 <strong>Learning</strong>
+
+  ![HTML](https://img.shields.io/badge/-HTML-1C1E2E?style=for-the-badge&logo=html5&logoColor=white&labelColor=3A76F0)
+  ![CSS](https://img.shields.io/badge/-CSS-1C1E2E?style=for-the-badge&logo=css3&logoColor=white&labelColor=3A76F0) -->
 
   ![GraphQL](https://img.shields.io/badge/-GraphQL-1C1E2E?style=for-the-badge&logo=graphql&logoColor=white&labelColor=3A76F0)
   ![Jest](https://img.shields.io/badge/-Jest-1C1E2E?style=for-the-badge&logo=jest&logoColor=white&labelColor=3A76F0)
