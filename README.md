@@ -2,6 +2,8 @@
 
 Thanks for visiting. I’m a full stack web developer with experience in Ruby on Rails and React based in London, UK. For any enquiries, feel free to connect with a message on [LinkedIn](https://www.linkedin.com/in/adrianhards/) or via my [website](https://adrianhards.github.io/). 
 
+If you use anything, or find anything helpful, I'd appreciate it if you linked back to my repo from yours and leave a 🌟. Thank you. 
+
  <!-- [![Linkedin Badge](https://img.shields.io/badge/-adrianHards-3A76F0?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/adrianhards/) -->
 <br>
 
