@@ -51,7 +51,7 @@ If you find anything helpful I'd appreciate it if you left a 🌟 and linked bac
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1E2E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=3A76F0)
   ![React](https://img.shields.io/badge/-React-1C1E2E?style=for-the-badge&logo=react&logoColor=white&labelColor=3A76F0)
-  ![RSpec](https://img.shields.io/badge/-RSpec-1C1E2E?style=for-the-badge&logo=ruby&logoColor=white&labelColor=3A76F0)
+  ![TDD](https://img.shields.io/badge/-TDD-1C1E2E?style=for-the-badge&logo=jest&logoColor=white&labelColor=3A76F0)
   ![Ruby](https://img.shields.io/badge/-Ruby-1C1E2E?style=for-the-badge&logo=ruby&logoColor=white&labelColor=3A76F0)
   ![Rails](https://img.shields.io/badge/-Rails-1C1E2E?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=3A76F0)
   ![SASS](https://img.shields.io/badge/-SASS-1C1E2E?style=for-the-badge&logo=sass&logoColor=white&labelColor=3A76F0)
