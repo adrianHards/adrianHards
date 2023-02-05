@@ -2,6 +2,8 @@
 
 Thanks for visiting! I like to create web apps, typically in Rails and/or React. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/adrianhards/) if you'd like to chat.
 
+<br>
+
 ### How-Tos
 <div align="left">
  
@@ -14,18 +16,9 @@ If you find anything helpful I'd appreciate it if you left a 🌟 and linked bac
 
  <!-- [![Linkedin Badge](https://img.shields.io/badge/-adrianHards-3A76F0?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/adrianhards/) -->
 <br>
-
-<div align="left">
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1E2E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=3A76F0)
-  ![React](https://img.shields.io/badge/-React-1C1E2E?style=for-the-badge&logo=react&logoColor=white&labelColor=3A76F0)
-  ![RSpec](https://img.shields.io/badge/-RSpec-1C1E2E?style=for-the-badge&logo=ruby&logoColor=white&labelColor=3A76F0)
-  ![Ruby](https://img.shields.io/badge/-Ruby-1C1E2E?style=for-the-badge&logo=ruby&logoColor=white&labelColor=3A76F0)
-  ![Rails](https://img.shields.io/badge/-Rails-1C1E2E?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=3A76F0)
-  ![SASS](https://img.shields.io/badge/-SASS-1C1E2E?style=for-the-badge&logo=sass&logoColor=white&labelColor=3A76F0)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-1C1E2E?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=3A76F0)
+<br>
  
-</div>
+
 <!-- 
 <div align="right">
 <strong>Learning</strong>
@@ -47,9 +40,27 @@ If you find anything helpful I'd appreciate it if you left a 🌟 and linked bac
 <!-- link to icons: https://github.com/Ileriayo/markdown-badges -->
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhards&theme=radical&title_color=3A76F0&text_color=fff" height="200">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhards&theme=radical&title_color=3A76F0&text_color=fff" height="200"> -->
   <img src="https://github-readme-stats.vercel.app/api?username=adrianhards&show_icons=true&theme=radical&title_color=3A76F0&text_color=fff&icon_color=3A76F0" height="200">
 </div>
+ 
+<br>
+<br>
+ 
+<div align="center">
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1E2E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=3A76F0)
+  ![React](https://img.shields.io/badge/-React-1C1E2E?style=for-the-badge&logo=react&logoColor=white&labelColor=3A76F0)
+  ![RSpec](https://img.shields.io/badge/-RSpec-1C1E2E?style=for-the-badge&logo=ruby&logoColor=white&labelColor=3A76F0)
+  ![Ruby](https://img.shields.io/badge/-Ruby-1C1E2E?style=for-the-badge&logo=ruby&logoColor=white&labelColor=3A76F0)
+  ![Rails](https://img.shields.io/badge/-Rails-1C1E2E?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=3A76F0)
+  ![SASS](https://img.shields.io/badge/-SASS-1C1E2E?style=for-the-badge&logo=sass&logoColor=white&labelColor=3A76F0)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-1C1E2E?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=3A76F0)
+ 
+</div>
+
+<br>
+<br>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianhards" id="counter">
