@@ -41,7 +41,7 @@ If you find anything helpful I'd appreciate it if you left a 🌟 and linked bac
 
 <div align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhards&theme=radical&title_color=3A76F0&text_color=fff" height="200"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianhards&show_icons=true&theme=radical&title_color=3A76F0&text_color=fff&icon_color=3A76F0" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=adrianhards&show_icons=true&theme=radical&title_color=3A76F0&text_color=fff&icon_color=3A76F0" height="175">
 </div>
  
 <br>
@@ -59,7 +59,6 @@ If you find anything helpful I'd appreciate it if you left a 🌟 and linked bac
  
 </div>
 
-<br>
 <br>
 
 <p align="center">
