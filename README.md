@@ -4,6 +4,10 @@ Thanks for visiting. I’m a full stack web developer with experience in Ruby on
 
 If you use anything, or find anything helpful, I'd appreciate it if you left a 🌟 and linked back to my repo from yours. Thank you!
 
+### How-Tos
+| <a href="https://github.com/adrianHards/react-guide"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1920px-React-icon.svg.png" width="75"><br>React</a> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"><br>Rails</a> |  
+|:-----------------------------------------------------------------------:|---|
+
  <!-- [![Linkedin Badge](https://img.shields.io/badge/-adrianHards-3A76F0?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/adrianhards/) -->
 <br>
 
