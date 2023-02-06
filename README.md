@@ -10,7 +10,7 @@ Thanks for visiting! I like to create web apps, typically with Rails and React.
 <a href="https://github.com/adrianHards/react-guide"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1920px-React-icon.svg.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> 
 |:-:|-|
  
-If you find anything helpful I'd appreciate it if you left a 🌟 and linked back to my repo from yours. Thank you!
+If you use anything or find anything helpful, I'd appreciate it if you left a 🌟 and give credit by linking back to my repo from yours. Thank you!
 
 </div>
 
