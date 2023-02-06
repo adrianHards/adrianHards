@@ -12,7 +12,7 @@ Thanks for visiting! I like to create web apps, typically with Rails and React.
  
 ### Resources
  
-<a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433" width="75"></a> | <a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="75"></a> 
+<a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433" width="75"></a> | <a href="https://github.com/adrianHards/coding-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="75"></a> 
 |-|-|
  
 If you use anything or find anything helpful, I'd appreciate it if you left a 🌟 and give credit by linking back to my repo from yours. Thank you!
