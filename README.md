@@ -16,40 +16,10 @@ Thanks for visiting! I like to create web apps, typically with Rails and React.
 If you use anything or find anything helpful, I'd appreciate it if you leave a 🌟 and give credit by linking back to my repo from yours. Thank you!
 
 </div>
-
- <!-- [![Linkedin Badge](https://img.shields.io/badge/-adrianHards-3A76F0?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/adrianhards/) -->
-<br>
- 
-
-<!-- 
-<div align="right">
-<strong>Learning</strong>
-
-  ![HTML](https://img.shields.io/badge/-HTML-1C1E2E?style=for-the-badge&logo=html5&logoColor=white&labelColor=3A76F0)
-  ![CSS](https://img.shields.io/badge/-CSS-1C1E2E?style=for-the-badge&logo=css3&logoColor=white&labelColor=3A76F0)
-
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-1C1E2E?style=for-the-badge&logo=graphql&logoColor=white&labelColor=3A76F0)
-  ![Jest](https://img.shields.io/badge/-Jest-1C1E2E?style=for-the-badge&logo=jest&logoColor=white&labelColor=3A76F0)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-1C1E2E?style=for-the-badge&logo=node.js&logoColor=white&labelColor=3A76F0)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-1C1E2E?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3A76F0)
- 
-  <!-- ![Redux](https://img.shields.io/badge/-Redux-1C1E2E?style=for-the-badge&logo=redux&logoColor=white&labelColor=3A76F0)
-  <!-- ![Cypress](https://img.shields.io/badge/-Cypress-1C1E2E?style=for-the-badge&logo=cypress&logoColor=white&labelColor=3A76F0)
-  <!-- ![Jest](https://img.shields.io/badge/-Jest-1C1E2E?style=for-the-badge&logo=jest&logoColor=white&labelColor=3A76F0) -->
-
-<br>
-
-<!-- link to icons: https://github.com/Ileriayo/markdown-badges -->
-
-<div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhards&theme=radical&title_color=3A76F0&text_color=fff" height="200"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianhards&show_icons=true&theme=radical&title_color=3A76F0&text_color=fff&icon_color=3A76F0" height="175">
-</div>
  
 <br>
-<br>
  
-<div align="center">
+<div align="left">
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1E2E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=3A76F0)
   ![React](https://img.shields.io/badge/-React-1C1E2E?style=for-the-badge&logo=react&logoColor=white&labelColor=3A76F0)
@@ -61,6 +31,13 @@ If you use anything or find anything helpful, I'd appreciate it if you leave a �
  
 </div>
 
+<br>
+<br>
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=adrianhards&show_icons=true&theme=radical&title_color=3A76F0&text_color=fff&icon_color=3A76F0" height="175">
+</div>
+ 
 <br>
 
 <p align="center">
