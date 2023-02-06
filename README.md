@@ -2,8 +2,6 @@
 
 Thanks for visiting! I like to create web apps, typically withÂ Rails and React. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/adrianhards/) if you'd like to connect.
 
-<br>
-
 ### How-Tos
 <div align="left">
  
@@ -20,7 +18,6 @@ If you use anything or find anything helpful, I'd appreciate it if you left a ðŸ
 </div>
 
  <!-- [![Linkedin Badge](https://img.shields.io/badge/-adrianHards-3A76F0?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/adrianhards/) -->
-<br>
 <br>
  
 
