@@ -2,7 +2,7 @@
 
 Thanks for visiting! I like to create web apps, typically with Rails and React. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/adrianhards/) if you'd like to connect.
 
-### How-Tos
+### Guides
 <div align="left">
  
 <a href="https://github.com/adrianHards/react-guide"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1920px-React-icon.svg.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> | 
