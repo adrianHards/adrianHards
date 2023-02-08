@@ -3,13 +3,15 @@
 Thanks for visiting. I like creating web apps! Typically with Rails and React. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/adrianhards/) if you'd like to connect.
 
 ### How To Guides
-<div align="left">
- 
+How to set up projects in Rails and React. 
+
+<div align="left"> 
+
 <a href="https://github.com/adrianHards/react-guide"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1920px-React-icon.svg.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> | 
 |-|-|
  
 ### Learning Resources
- 
+Coding challenges I've completed with notes, and a list of resources I've used to learn JavaScript. 
 <a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433" width="75"></a> | <a href="https://github.com/adrianHards/coding-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="75"></a> 
 |-|-|
  
