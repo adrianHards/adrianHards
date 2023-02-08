@@ -8,7 +8,7 @@ Thanks for visiting. I like creating web apps! Typically with Rails and React. 
 |-|-|-|
 
 ### How To Guides
-How to set up projects in Rails and React. 
+Setting up projects in Rails and React. 
 
 <div align="left"> 
 
