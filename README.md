@@ -26,7 +26,7 @@ If you use anything or find anything helpful, I'd appreciate it if you leave a ð
  
 <br>
  
-<div align="left">
+<div align="center">
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1E2E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=3A76F0)
   ![React](https://img.shields.io/badge/-React-1C1E2E?style=for-the-badge&logo=react&logoColor=white&labelColor=3A76F0)
