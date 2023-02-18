@@ -26,7 +26,7 @@ If you use anything or find anything helpful, I'd appreciate it if you leave a ð
  
 <br>
  
-<div align="center">
+<!-- <div align="center">
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1E2E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=3A76F0)
   ![React](https://img.shields.io/badge/-React-1C1E2E?style=for-the-badge&logo=react&logoColor=white&labelColor=3A76F0)
@@ -44,7 +44,7 @@ If you use anything or find anything helpful, I'd appreciate it if you leave a ð
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=adrianhards&show_icons=true&theme=radical&title_color=3A76F0&text_color=fff&icon_color=3A76F0" height="175">
 </div>
- 
+  -->
 <br>
 
 <p align="center">
