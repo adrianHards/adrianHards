@@ -1,6 +1,6 @@
 ### Hello, World!
 
-Thanks for visiting. I like create web apps, typically with Rails and React. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/adrianhards/) if you'd like to connect.
+Thanks for visiting. I like to create web apps, typically with Rails and React. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/adrianhards/) if you'd like to connect.
 
 ### Hackathons
 
