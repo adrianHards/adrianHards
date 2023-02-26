@@ -16,7 +16,7 @@ Setting up projects in Rails and React.
 |-|-|
  
 ### Learning Resources
-Coding challenges I've completed (with notes) and a list of resources I've used to further my understanding of JavaScript and React. 
+Coding challenges I've completed (sometimes with notes) and a list of resources I've used to further my understanding of JavaScript and React. 
 <a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433" width="75"></a> | <a href="https://github.com/adrianHards/coding-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="75"></a> 
 |-|-|
  
