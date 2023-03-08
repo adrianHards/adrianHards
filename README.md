@@ -4,7 +4,7 @@ Thanks for visiting. I like to create web apps, typically with Rails and React.
 
 ### Hackathons
 
-| Find | Context | Clean Runnings |
+| [Find](https://github.com/adrianHards/Find) | [Context](https://github.com/adrianHards/Context) | [Clean Runnings](https://github.com/sandiskolarczyk/clean-runnings) |
 |------|---------|---------------|
 | <a href="https://github.com/adrianHards/Find"><img src="https://hackforpeace.net/wp-content/uploads/2022/08/hfp-logo.svg" width="75" style="display: block; margin: auto;"></a> | <a href="https://github.com/adrianHards/Context"><img src="https://railshackathon.com/assets/logo-40db3df7fb921a1c743f64def8409805b0ad67179efca108b2ece831766b9bf9.svg" width="75" style="display: block; margin: auto;"></a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sandiskolarczyk/clean-runnings"><img src="https://pbs.twimg.com/profile_images/1498241570549731328/lks7Ir_o_400x400.jpg" width="75" style="display: block; margin: auto;"></a> |
 
@@ -14,7 +14,7 @@ Setting up projects in Rails and React.
 
 <div align="left"> 
  
-| React | Rails |
+| [React](https://github.com/adrianHards/react-guide) | [Rails](https://github.com/adrianHards/rails-guide) |
 |------|---------|
 | <a href="https://github.com/adrianHards/react-guide"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1920px-React-icon.svg.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> | 
 
@@ -22,7 +22,7 @@ Setting up projects in Rails and React.
 Coding challenges I've completed (sometimes with notes) and a list of resources I've used to further my understanding of JavaScript and React. 
  
  
-| JavaScript | LeetCode |
+| [JavaScript](https://github.com/adrianHards/frontend-resources) | [LeetCode](https://github.com/adrianHards/coding-challenges) |
 |------|---------|
 | &nbsp; <a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433" width="75"></a> | <a href="https://github.com/adrianHards/coding-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="75"></a> | 
 
