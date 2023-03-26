@@ -1,6 +1,6 @@
 ### Hello, World!
 
-Thanks for visiting. I like to create web apps, typically with Rails and React (check out my [portfolio](https://adrianhards.github.io/)!) Feel free to reach out if you'd like to connect. 
+Thanks for visiting. I like to create web apps (check out my [portfolio](https://adrianhards.github.io/) for some examples!) Feel free to reach out if you'd like to connect. 
 
 ### Hackathons
 
