@@ -9,48 +9,31 @@ Thanks for visiting. I like to create web apps, typically with Rails and React 
 | <a href="https://github.com/adrianHards/Find"><img src="https://hackforpeace.net/wp-content/uploads/2022/08/hfp-logo.svg" width="75" style="display: block; margin: auto;"></a> | <a href="https://github.com/adrianHards/Context"><img src="https://railshackathon.com/assets/logo-40db3df7fb921a1c743f64def8409805b0ad67179efca108b2ece831766b9bf9.svg" width="75" style="display: block; margin: auto;"></a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sandiskolarczyk/clean-runnings"><img src="https://pbs.twimg.com/profile_images/1498241570549731328/lks7Ir_o_400x400.jpg" width="75" style="display: block; margin: auto;"></a> |
 
  
-### How To Guides
-Setting up projects in Rails and React. 
+### Guides
+Setting up projects in Rails and how best to learn front-end development.
 
 <div align="left"> 
  
-| [React](https://github.com/adrianHards/react-guide) | [Rails](https://github.com/adrianHards/rails-guide) |
+| [Front-End](https://github.com/adrianHards/react-guide) | [Rails](https://github.com/adrianHards/rails-guide) |
 |------|---------|
-| <a href="https://github.com/adrianHards/react-guide"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1920px-React-icon.svg.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> | 
+| <a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> | 
 
-### Learning Resources
-Coding challenges I've completed (sometimes with notes) and a list of resources I've used to further my understanding of JavaScript and React. 
+### Challenges
+Coding challenges I've completed (sometimes with notes) and a list of resources I've used to further my understanding. 
  
  
-| [JavaScript](https://github.com/adrianHards/frontend-resources) | [LeetCode](https://github.com/adrianHards/coding-challenges) |
-|------|---------|
-| &nbsp; <a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433" width="75"></a> | <a href="https://github.com/adrianHards/coding-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="75"></a> | 
+| [JavaScript](https://github.com/adrianHards/javascript-challenges) | [Python](https://github.com/adrianHards/python-challenges) | [Ruby](https://github.com/adrianHards/ruby-challenges) |
+|------|--------|---------|
+| &nbsp; <a href="https://github.com/adrianHards/javascript-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433" width="75"></a> | <a href="https://github.com/adrianHards/python-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="75"></a> | <a href="https://github.com/adrianHards/ruby-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="75"></a> |
 
-If you use anything or find anything helpful, I'd appreciate it if you leave a 🌟 and give credit by linking back to my repo from yours. Thank you!
+<br>
+
+If you use anything or find anything helpful, I'd appreciate it if you leave a 🌟 and give credit by linking back to my repo from yours. 
+<br><br>
+Thank you!
 
 </div>
  
-<br>
- 
-<!-- <div align="center">
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1E2E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=3A76F0)
-  ![React](https://img.shields.io/badge/-React-1C1E2E?style=for-the-badge&logo=react&logoColor=white&labelColor=3A76F0)
-  ![TDD](https://img.shields.io/badge/-TDD-1C1E2E?style=for-the-badge&logo=jest&logoColor=white&labelColor=3A76F0)
-  ![Ruby](https://img.shields.io/badge/-Ruby-1C1E2E?style=for-the-badge&logo=ruby&logoColor=white&labelColor=3A76F0)
-  ![Rails](https://img.shields.io/badge/-Rails-1C1E2E?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=3A76F0)
-  ![SASS](https://img.shields.io/badge/-SASS-1C1E2E?style=for-the-badge&logo=sass&logoColor=white&labelColor=3A76F0)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-1C1E2E?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=3A76F0)
- 
-</div>
-
-<br>
-<br>
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adrianhards&show_icons=true&theme=radical&title_color=3A76F0&text_color=fff&icon_color=3A76F0" height="175">
-</div>
-  -->
 <br>
 
 <p align="center">
