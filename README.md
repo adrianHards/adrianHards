@@ -19,8 +19,9 @@ Setting up projects in Rails and how best to learn front-end development.
 | <a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> | 
 
 ### Challenges
-Coding challenges I've completed (sometimes with notes) and a list of resources I've used to further my understanding. 
- 
+[![LeetCode user adrianLeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FadrianLeetCode&logo=leetcode&logoColor=yellow)](https://leetcode.com/adrianLeetCode/)
+
+Coding challenges I've completed and a list of resources I've used to further my understanding. 
  
 | [JavaScript](https://github.com/adrianHards/javascript-challenges) | [Python](https://github.com/adrianHards/python-challenges) | [Ruby](https://github.com/adrianHards/ruby-challenges) |
 |------|--------|---------|
@@ -39,5 +40,7 @@ Thank you!
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianhards" id="counter">
 </p>
+
+
 
 
