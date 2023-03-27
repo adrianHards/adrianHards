@@ -20,17 +20,17 @@ Setting up projects in Rails and how best to learn front-end development.
 
 ### Challenges
 
-[![](https://badges.peiyuan.ch/leetcode/puiiyuen/ranking?label=LeetCode&logo=leetcode)](https://leetcode.com/adrianLeetCode)
-<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=all">
-<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=easy">
-<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=medium">
-<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=hard">
-
 Coding challenges I've completed and a list of resources I've used to further my understanding. 
  
 | [JavaScript](https://github.com/adrianHards/javascript-challenges) | [Python](https://github.com/adrianHards/python-challenges) | [Ruby](https://github.com/adrianHards/ruby-challenges) |
 |------|--------|---------|
 | &nbsp; <a href="https://github.com/adrianHards/javascript-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433" width="75"></a> | <a href="https://github.com/adrianHards/python-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="75"></a> | <a href="https://github.com/adrianHards/ruby-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="75"></a> |
+
+[![](https://badges.peiyuan.ch/leetcode/puiiyuen/ranking?label=LeetCode&logo=leetcode)](https://leetcode.com/adrianLeetCode)
+<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=all">
+<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=easy">
+<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=medium">
+<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=hard">
 
 <br>
 
