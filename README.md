@@ -19,7 +19,12 @@ Setting up projects in Rails and how best to learn front-end development.
 | <a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> | 
 
 ### Challenges
-[![LeetCode user adrianLeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FadrianLeetCode&logo=leetcode&logoColor=yellow)](https://leetcode.com/adrianLeetCode/)
+
+[![](https://badges.peiyuan.ch/leetcode/puiiyuen/ranking?label=LeetCode&logo=leetcode)](https://leetcode.com/adrianLeetCode)
+<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=all">
+<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=easy">
+<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=medium">
+<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=hard">
 
 Coding challenges I've completed and a list of resources I've used to further my understanding. 
  
