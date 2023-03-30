@@ -15,7 +15,7 @@ Setting up projects in Rails and how best to learn front-end development.
  
 | [Front-End](https://github.com/adrianHards/frontend-resources) | [Rails](https://github.com/adrianHards/rails-guide) | [Vue.js](https://github.com/adrianHards/vuejs-guide) |
 |------|------|------|
-| <a href="https://github.com/adrianHards/chsarp-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> | <a href="https://github.com/adrianHards/vuejs-guide"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1920px-Vue.js_Logo_2.svg.png" width="75"></a> | 
+| <a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> | <a href="https://github.com/adrianHards/vuejs-guide"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1920px-Vue.js_Logo_2.svg.png" width="75"></a> | 
 
 ### Challenges
 
@@ -23,7 +23,7 @@ Coding challenges I've completed and a list of resources I've used to further my
  
 | [C#](https://github.com/adrianHards/csharp-challenges) | [JavaScript](https://github.com/adrianHards/javascript-challenges) | [Python](https://github.com/adrianHards/python-challenges) | [Ruby](https://github.com/adrianHards/ruby-challenges) |
 |------|------|------|------|
-| <a href="https://github.com/adrianHards/chsarp-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="75"></a> | &nbsp; <a href="https://github.com/adrianHards/javascript-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433" width="75"></a> &nbsp; | <a href="https://github.com/adrianHards/python-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="75"></a> | <a href="https://github.com/adrianHards/ruby-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="75"></a> |
+| <a href="https://github.com/adrianHards/csharp-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="75"></a> | &nbsp; <a href="https://github.com/adrianHards/javascript-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433" width="75"></a> &nbsp; | <a href="https://github.com/adrianHards/python-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="75"></a> | <a href="https://github.com/adrianHards/ruby-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="75"></a> |
 
 <!-- [![](https://badges.peiyuan.ch/leetcode/puiiyuen/ranking?label=LeetCode&logo=leetcode)](https://leetcode.com/adrianLeetCode)
 <img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=all">
