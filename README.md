@@ -8,7 +8,7 @@ And thanks for visiting. I like to create web apps (check out my [portfolio](htt
 |------|---------|---------------|
 | <a href="https://github.com/adrianHards/Find"><img src="https://hackforpeace.net/wp-content/uploads/2022/08/hfp-logo.svg" width="75" style="display: block; margin: auto;"></a> | <a href="https://github.com/adrianHards/Context"><img src="https://railshackathon.com/assets/logo-40db3df7fb921a1c743f64def8409805b0ad67179efca108b2ece831766b9bf9.svg" width="75" style="display: block; margin: auto;"></a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sandiskolarczyk/clean-runnings"><img src="https://pbs.twimg.com/profile_images/1498241570549731328/lks7Ir_o_400x400.jpg" width="75" style="display: block; margin: auto;"></a> |
 
-### Guides
+### Frameworks
 Setting up projects in Rails and how best to learn front-end development.
 
 <div align="left"> 
@@ -17,7 +17,7 @@ Setting up projects in Rails and how best to learn front-end development.
 |------|------|------|
 | <a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> | <a href="https://github.com/adrianHards/vuejs-guide"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1920px-Vue.js_Logo_2.svg.png" width="75"></a> | 
 
-### Challenges
+### Languages
 
 Coding challenges I've completed and a list of resources I've used to further my understanding. 
  
