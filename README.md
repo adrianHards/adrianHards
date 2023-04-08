@@ -8,6 +8,8 @@ I like to create [web apps](https://adrianhards.github.io/) and _how to_ guides.
 |------|---------|---------------|
 | <a href="https://github.com/adrianHards/Find"><img src="https://hackforpeace.net/wp-content/uploads/2022/08/hfp-logo.svg" width="75" style="display: block; margin: auto;"></a> | <a href="https://github.com/adrianHards/Context"><img src="https://railshackathon.com/assets/logo-40db3df7fb921a1c743f64def8409805b0ad67179efca108b2ece831766b9bf9.svg" width="75" style="display: block; margin: auto;"></a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sandiskolarczyk/clean-runnings"><img src="https://pbs.twimg.com/profile_images/1498241570549731328/lks7Ir_o_400x400.jpg" width="75" style="display: block; margin: auto;"></a> |
 
+<br>
+
 ## Guides
 
 ### Frameworks
@@ -33,6 +35,7 @@ Coding challenges I've completed and a list of resources I've used to further my
 <img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=medium">
 <img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=hard">
  -->
+<br>
 <br>
 
 If you use anything or find anything helpful, I'd appreciate it if you leave a 🌟 and give credit by linking back to my repo from yours. 
