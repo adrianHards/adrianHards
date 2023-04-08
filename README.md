@@ -2,6 +2,8 @@
 
 I like to create [web apps](https://adrianhards.github.io/) and _how to_ guides. Feel free to [reach](https://www.linkedin.com/in/adrianhards/) out if you'd like to connect. Thanks for visiting!
 
+<br>
+
 ## Hackathons
 
 | [Find](https://github.com/adrianHards/Find) | [Context](https://github.com/adrianHards/Context) | [Clean Runnings](https://github.com/sandiskolarczyk/clean-runnings) |
