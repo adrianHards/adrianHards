@@ -14,8 +14,8 @@ I like creating [web apps](https://adrianhards.github.io/) and 'how to' guides. 
 
 ## Guides
 
-### Frameworks
-Setting up projects in Rails and how best to learn front-end development.
+### Frameworks & Libraries
+Setup guides and how best to learn front-end development.
 
 <div align="left"> 
  
