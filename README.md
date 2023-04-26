@@ -15,7 +15,7 @@ Setup guides and how best to learn front-end development.
 |------|------|------|
 | <a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> | <a href="https://github.com/adrianHards/vuejs-guide"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1920px-Vue.js_Logo_2.svg.png" width="75"></a> | 
 
-### Languages, GitHub and Terminal Commands
+### Languages
 
 Coding challenges I've completed and a list of resources I've used to further my understanding. 
  
