@@ -4,14 +4,6 @@ I like creating [web apps](https://adrianhards.github.io/) and 'how to' guides. 
 
 <br>
 
-## Hackathons
-
-| [Find](https://github.com/adrianHards/Find) | [Context](https://github.com/adrianHards/Context) | [Clean Runnings](https://github.com/sandiskolarczyk/clean-runnings) |
-|------|---------|---------------|
-| <a href="https://github.com/adrianHards/Find"><img src="https://hackforpeace.net/wp-content/uploads/2022/08/hfp-logo.svg" width="75" style="display: block; margin: auto;"></a> | <a href="https://github.com/adrianHards/Context"><img src="https://railshackathon.com/assets/logo-40db3df7fb921a1c743f64def8409805b0ad67179efca108b2ece831766b9bf9.svg" width="75" style="display: block; margin: auto;"></a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sandiskolarczyk/clean-runnings"><img src="https://pbs.twimg.com/profile_images/1498241570549731328/lks7Ir_o_400x400.jpg" width="75" style="display: block; margin: auto;"></a> |
-
-<br>
-
 ## Guides
 
 ### Frameworks & Libraries
@@ -27,11 +19,17 @@ Setup guides and how best to learn front-end development.
 
 Coding challenges I've completed and a list of resources I've used to further my understanding. 
  
-| [C#](https://github.com/adrianHards/csharp-challenges) | [JavaScript](https://github.com/adrianHards/javascript-challenges) | [Python](https://github.com/adrianHards/python-challenges) | [Ruby](https://github.com/adrianHards/ruby-challenges) | [GitHub]() | [Terminal]()
+| [C#](https://github.com/adrianHards/csharp-challenges) | [JavaScript](https://github.com/adrianHards/javascript-challenges) | [Python](https://github.com/adrianHards/python-challenges) | [Ruby](https://github.com/adrianHards/ruby-challenges) | [GitHub](https://github.com/adrianHards/github) | [Terminal](https://github.com/adrianHards/terminal)
 |------|------|------|------|------| ------|
-| <a href="https://github.com/adrianHards/csharp-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="75"></a> | &nbsp; <a href="https://github.com/adrianHards/javascript-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433" width="75"></a> &nbsp; | <a href="https://github.com/adrianHards/python-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="75"></a> | <a href="https://github.com/adrianHards/ruby-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="75"></a> | <a href="https://github.com/adrianHards/ruby-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1920px-GitHub_Invertocat_Logo.svg.png" width="75"> | <a href="https://github.com/adrianHards/ruby-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/ITerm2_v3.4_icon.png" width="75"> 
+| <a href="https://github.com/adrianHards/csharp-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="75"></a> | &nbsp; <a href="https://github.com/adrianHards/javascript-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433" width="75"></a> &nbsp; | <a href="https://github.com/adrianHards/python-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="75"></a> | <a href="https://github.com/adrianHards/ruby-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="75"></a> | <a href="https://github.com/adrianHards/github"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1920px-GitHub_Invertocat_Logo.svg.png" width="75"> | <a href="https://github.com/adrianHards/terminal"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/ITerm2_v3.4_icon.png" width="75"> 
 
+<br>
  
+## Hackathons
+
+| [Find](https://github.com/adrianHards/Find) | [Context](https://github.com/adrianHards/Context) | [Clean Runnings](https://github.com/sandiskolarczyk/clean-runnings) |
+|------|---------|---------------|
+| <a href="https://github.com/adrianHards/Find"><img src="https://hackforpeace.net/wp-content/uploads/2022/08/hfp-logo.svg" width="75" style="display: block; margin: auto;"></a> | <a href="https://github.com/adrianHards/Context"><img src="https://railshackathon.com/assets/logo-40db3df7fb921a1c743f64def8409805b0ad67179efca108b2ece831766b9bf9.svg" width="75" style="display: block; margin: auto;"></a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sandiskolarczyk/clean-runnings"><img src="https://pbs.twimg.com/profile_images/1498241570549731328/lks7Ir_o_400x400.jpg" width="75" style="display: block; margin: auto;"></a> |
  
 <!-- [![](https://badges.peiyuan.ch/leetcode/puiiyuen/ranking?label=LeetCode&logo=leetcode)](https://leetcode.com/adrianLeetCode)
 <img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=all">
