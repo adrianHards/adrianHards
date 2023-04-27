@@ -22,6 +22,14 @@ Coding challenges I've completed and a list of resources I've used to further my
 | [C#](https://github.com/adrianHards/csharp-challenges) | [JavaScript](https://github.com/adrianHards/javascript-challenges) | [Python](https://github.com/adrianHards/python-challenges) | [Ruby](https://github.com/adrianHards/ruby-challenges)
 |------|------|------|------|
 | <a href="https://github.com/adrianHards/csharp-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="75"></a> | &nbsp; <a href="https://github.com/adrianHards/javascript-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433" width="75"></a> &nbsp; | <a href="https://github.com/adrianHards/python-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="75"></a> | <a href="https://github.com/adrianHards/ruby-challenges"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="75"></a> 
+ 
+<br>
+ 
+ ### Other
+
+ | [GitHub](https://github.com/adrianHards/github) | [Terminal](https://github.com/adrianHards/rails-guide/blob/main/other/terminal.md) |  [VS Code](https://github.com/adrianHards/rails-guide/blob/main/other/vscode.md) |
+ |------| ------| ------|
+ | <a href="https://github.com/adrianHards/github"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1920px-GitHub_Invertocat_Logo.svg.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide/blob/main/other/terminal.md"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/ITerm2_v3.4_icon.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide/blob/main/other/vscode.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1920px-Visual_Studio_Code_1.35_icon.svg.png" width="75"> 
 
 <br>
  
@@ -37,14 +45,6 @@ Coding challenges I've completed and a list of resources I've used to further my
 <img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=medium">
 <img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=hard">
  -->
-
- <br>
- 
-### Other
-
- | [GitHub](https://github.com/adrianHards/github) | [Terminal](https://github.com/adrianHards/rails-guide/blob/main/other/terminal.md) |  [VS Code](https://github.com/adrianHards/rails-guide/blob/main/other/vscode.md) |
- |------| ------| ------|
- | <a href="https://github.com/adrianHards/github"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1920px-GitHub_Invertocat_Logo.svg.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide/blob/main/other/terminal.md"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/ITerm2_v3.4_icon.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide/blob/main/other/vscode.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1920px-Visual_Studio_Code_1.35_icon.svg.png" width="75"> 
  
 <br>
 <br>
