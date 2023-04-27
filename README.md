@@ -27,9 +27,9 @@ Coding challenges I've completed and a list of resources I've used to further my
  
 ## Hackathons
 
-| [Find](https://github.com/adrianHards/Find) | [Context](https://github.com/adrianHards/Context) | [Clean Runnings](https://github.com/sandiskolarczyk/clean-runnings) |
+| [Clean Runnings](https://github.com/sandiskolarczyk/clean-runnings) | [Context](https://github.com/adrianHards/Context) | [Find](https://github.com/adrianHards/Find) |
 |------|---------|---------------|
-| <a href="https://github.com/adrianHards/Find"><img src="https://hackforpeace.net/wp-content/uploads/2022/08/hfp-logo.svg" width="75" style="display: block; margin: auto;"></a> | <a href="https://github.com/adrianHards/Context"><img src="https://railshackathon.com/assets/logo-40db3df7fb921a1c743f64def8409805b0ad67179efca108b2ece831766b9bf9.svg" width="75" style="display: block; margin: auto;"></a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sandiskolarczyk/clean-runnings"><img src="https://pbs.twimg.com/profile_images/1498241570549731328/lks7Ir_o_400x400.jpg" width="75" style="display: block; margin: auto;"></a> |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sandiskolarczyk/clean-runnings"><img src="https://pbs.twimg.com/profile_images/1498241570549731328/lks7Ir_o_400x400.jpg" width="75" style="display: block; margin: auto;"></a> | <a href="https://github.com/adrianHards/Context"><img src="https://railshackathon.com/assets/logo-40db3df7fb921a1c743f64def8409805b0ad67179efca108b2ece831766b9bf9.svg" width="75" style="display: block; margin: auto;"></a> | <a href="https://github.com/adrianHards/Find"><img src="https://hackforpeace.net/wp-content/uploads/2022/08/hfp-logo.svg" width="75" style="display: block; margin: auto;"></a> 
  
 <!-- [![](https://badges.peiyuan.ch/leetcode/puiiyuen/ranking?label=LeetCode&logo=leetcode)](https://leetcode.com/adrianLeetCode)
 <img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=all">
@@ -42,9 +42,9 @@ Coding challenges I've completed and a list of resources I've used to further my
  
 ### Other
 
- | [GitHub](https://github.com/adrianHards/github) | [Terminal](https://github.com/adrianHards/terminal) | [Figma](https://github.com/adrianHards/figma) |  [VS Code](https://github.com/adrianHards/vscode) |
- |------| ------| ------| ------|
- | <a href="https://github.com/adrianHards/github"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1920px-GitHub_Invertocat_Logo.svg.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide/blob/main/other/terminal.md"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/ITerm2_v3.4_icon.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide/blob/main/other/figma.md"><img src="https://www.prolific.com/files.cgi?action=getwikisynd&uuid=1JBUCQRRH25RN1L42ENXPS4YL2QT&projectid=18623&fileviewid=766585" width="75"> | <a href="https://github.com/adrianHards/rails-guide/blob/main/other/vscode.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1920px-Visual_Studio_Code_1.35_icon.svg.png" width="75"> 
+ | [GitHub](https://github.com/adrianHards/github) | [Terminal](https://github.com/adrianHards/rails-guide/blob/main/other/terminal.md) |  [VS Code](https://github.com/adrianHards/rails-guide/blob/main/other/vscode.md) |
+ |------| ------| ------|
+ | <a href="https://github.com/adrianHards/github"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1920px-GitHub_Invertocat_Logo.svg.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide/blob/main/other/terminal.md"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/ITerm2_v3.4_icon.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide/blob/main/other/vscode.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1920px-Visual_Studio_Code_1.35_icon.svg.png" width="75"> 
  
 <br>
 <br>
