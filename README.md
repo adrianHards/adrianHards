@@ -31,8 +31,8 @@ A few basic commands and shortcuts to use for the Terminal, VS Code and GitHub.
 
 <br>
  
-## Hackathons
-
+## Hackathons and Open Source
+A selection of hackathons and open source projects I have participated in to date. 
 | [Clean Runnings](https://github.com/sandiskolarczyk/clean-runnings) | [Context](https://github.com/adrianHards/Context) | [Find](https://github.com/adrianHards/Find) |
 |------|---------|---------------|
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sandiskolarczyk/clean-runnings"><img src="https://pbs.twimg.com/profile_images/1498241570549731328/lks7Ir_o_400x400.jpg" width="75" style="display: block; margin: auto;"></a> | <a href="https://github.com/adrianHards/Context"><img src="https://railshackathon.com/assets/logo-40db3df7fb921a1c743f64def8409805b0ad67179efca108b2ece831766b9bf9.svg" width="75" style="display: block; margin: auto;"></a> | <a href="https://github.com/adrianHards/Find"><img src="https://hackforpeace.net/wp-content/uploads/2022/08/hfp-logo.svg" width="75" style="display: block; margin: auto;"></a> 
