@@ -25,9 +25,9 @@ Coding challenges I've completed and a list of resources I've used to further my
 
  ### Other
 Commands and shortcuts to use in the Terminal, VS Code and GitHub.
- | [GitHub](https://github.com/adrianHards/github) | [Terminal](https://github.com/adrianHards/rails-guide/blob/main/other/terminal.md) |  [VS Code](https://github.com/adrianHards/rails-guide/blob/main/other/vscode.md) |
- |------| ------| ------|
- | <a href="https://github.com/adrianHards/github"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1920px-GitHub_Invertocat_Logo.svg.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide/blob/main/other/terminal.md"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/ITerm2_v3.4_icon.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide/blob/main/other/vscode.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1920px-Visual_Studio_Code_1.35_icon.svg.png" width="75"> 
+ | [GitHub](https://github.com/adrianHards/github) | [Terminal](https://github.com/adrianHards/rails-guide/blob/main/other/terminal.md) |  [VS Code](https://github.com/adrianHards/rails-guide/blob/main/other/vscode.md) | [SQL](https://github.com/adrianHards/learning-python/blob/main/markdown/sql.md)
+ |------| ------| ------| ------|
+ | <a href="https://github.com/adrianHards/github"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1920px-GitHub_Invertocat_Logo.svg.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide/blob/main/other/terminal.md"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/ITerm2_v3.4_icon.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide/blob/main/other/vscode.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1920px-Visual_Studio_Code_1.35_icon.svg.png" width="75"> | <a href="https://github.com/adrianHards/learning-python/blob/main/markdown/sql.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="75"> 
 
 <br>
  
