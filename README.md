@@ -1,4 +1,4 @@
-### Ciao, World!
+### Hello, World!
 
 I like creating [web apps](https://adrianhards.github.io/) and 'how to' guides. Feel free to [reach](https://www.linkedin.com/in/adrianhards/) out if you'd like to connect. Thanks for visiting!
 
@@ -11,9 +11,9 @@ Setup guides and how best to learn front-end development.
 
 <div align="left"> 
  
-| [Front-End](https://github.com/adrianHards/frontend-resources) | [Rails](https://github.com/adrianHards/rails-guide) | [Vue.js](https://github.com/adrianHards/vuejs-guide) |
-|------|------|------|
-| <a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> | <a href="https://github.com/adrianHards/vuejs-guide"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1920px-Vue.js_Logo_2.svg.png" width="75"></a> | 
+| [Front-End](https://github.com/adrianHards/frontend-resources) | [Rails](https://github.com/adrianHards/rails-guide)
+|------|------|
+| <a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> 
 
 ### Languages
 
@@ -58,7 +58,12 @@ Thank you!
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianhards" id="counter">
 </p>
-
+ 
+<!-- 
+[Vue.js](https://github.com/adrianHards/vuejs-guide)
+<a href="https://github.com/adrianHards/vuejs-guide">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1920px-Vue.js_Logo_2.svg.png" width="75"></a> |  
+-->
 
 
 
