@@ -11,9 +11,9 @@ Setup guides and how best to learn front-end development.
 
 <div align="left"> 
  
-| [Front-End](https://github.com/adrianHards/frontend-resources) | [Rails](https://github.com/adrianHards/rails-guide)
+| [Rails](https://github.com/adrianHards/rails-guide) | [Front-End](https://github.com/adrianHards/frontend-resources) | 
 |------|------|
-| <a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png" width="75"> | <a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> 
+<a href="https://github.com/adrianHards/rails-guide"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> | <a href="https://github.com/adrianHards/frontend-resources"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png" width="75"> | 
 
 ### Languages
 
