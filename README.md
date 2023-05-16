@@ -13,7 +13,7 @@ Setup guides and how best to learn front-end development.
  
 | [Rails](https://github.com/adrianHards/learning-rails) | [Flask](https://github.com/adrianHards/learning-flask) | [Front-End](https://github.com/adrianHards/learning-frontend) | 
 |------|------|------|
-<a href="https://github.com/adrianHards/learning-rails"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> | <a href="https://github.com/adrianHards/learning-flask"><img src="https://w7.pngwing.com/pngs/278/295/png-transparent-flask-python-web-framework-web-application-american-art-white-monochrome-black.png" width="75"> | <a href="https://github.com/adrianHards/learning-frontend"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png" width="75"> | 
+<a href="https://github.com/adrianHards/learning-rails"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png" width="75"></a> | <a href="https://github.com/adrianHards/learning-flask"><img src="https://www.seekpng.com/png/detail/70-701539_flask-flask-python-png.png" width="75"> | <a href="https://github.com/adrianHards/learning-frontend"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png" width="75"> | 
 
 ### Languages
 
