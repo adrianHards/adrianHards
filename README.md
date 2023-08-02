@@ -43,7 +43,7 @@ Other projects I've worked on include:
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/adrianHards/flask-chitter">Chitter</a></td>
-      <td>A Twitter clone. Users are able to post and interact with messages in real-time!</td>
+      <td>A Twitter clone. Users can post and interact with messages in real-time!</td>
       <td align="center">solo</td>
       <td>
         <div>
