@@ -52,6 +52,7 @@ Other projects I've worked on include:
           <img src="https://img.shields.io/badge/Jest-944058?style=for-the-badge&logo=jest&logoColor=white" height="22">
           <img src="https://img.shields.io/badge/PostgreSQL-30638B?style=for-the-badge&logo=postgresql&logoColor=white" height="22">
           <img src="https://img.shields.io/badge/Flask--Socket.IO-000000?style=for-the-badge&logo=flask&logoColor=black&color=F5F5F5" height="22">
+          <img src="https://img.shields.io/badge/Peewee-2980B9?style=for-the-badge&logo=flask&logoColor=white" height="22">
         </div>
       </td>
     </tr>
