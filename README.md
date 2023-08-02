@@ -27,6 +27,38 @@ A selection of hackathons I have participated in to date.
 </div>
 
 <br>
+<br>
+
+Other projects I've worked on include:
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Collaborators</th>
+      <th>Technologies Used</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/adrianHards/flask-chitter">Chitter</a></td>
+      <td>A Twitter clone. Users are able to post and interact with messages in real-time!</td>
+      <td align="center">solo</td>
+      <td>
+        <div>
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="22">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="22">
+          <img src="https://img.shields.io/badge/Jest-944058?style=for-the-badge&logo=jest&logoColor=white" height="22">
+          <img src="https://img.shields.io/badge/PostgreSQL-30638B?style=for-the-badge&logo=postgresql&logoColor=white" height="22">
+          <img src="https://img.shields.io/badge/Flask--Socket.IO-000000?style=for-the-badge&logo=flask&logoColor=black&color=F5F5F5" height="22">
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
 
 ## Guides
 
@@ -64,6 +96,8 @@ Setup guides and resources on how to learn front-end development.
  -->
 
 <br>
+
+
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianhards" id="counter">
