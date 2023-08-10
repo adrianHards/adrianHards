@@ -68,33 +68,39 @@ Setup guides and resources.
   </thead>
   <tbody>
     <tr>
+      <td align="left"><a href="https://github.com/Mentor-Pathway/mentor-platform">Mentor Pathway</a></td>
+      <td align="left">Enable mentors to track and review the work of their mentees</td>
+      <td align="left">Postgres, Rails, RSpec, Tailwind</td>
+      <td align="center">6</td>
+    </tr>
+    <tr>
       <td align="left"><a href="https://github.com/adrianHards/flask-chitter">Chitter</a></td>
       <td align="left">A Twitter clone</td>
-      <td align="left">Websocket, Flask, Python, Jest, Socket.io</td>
+      <td align="left">Flask, Python, Peewee (ORM), Jest, Socket.io</td>
       <td align="center">Solo</td>
     </tr>
     <tr>
-      <td align="left">Reminder</td>
-      <td align="left">Apple Reminder clone</td>
-      <td align="left">Hotwire, Rails, Tailwind</td>
+      <td align="left"><a href="https://github.com/adrianHards/hotwire-reminder">Reminder</a></td>
+      <td align="left">Apple reminders clone</td>
+      <td align="left">Turbo, Rails, Tailwind</td>
       <td align="center">Solo</td>
     </tr>
     <tr>
-      <td align="left">Trace</td>
+      <td align="left"><a href="https://github.com/adrianHards/rails-trace">Trace</a></td>
       <td align="left">Digital Scavenger Hunt Game</td>
       <td align="left">Rails, Postgres, AJAX</td>
       <td align="center">3</td>
     </tr>
     <tr>
-      <td align="left">Acebook</td>
+      <td align="left"><a href="https://github.com/Loo-Ashworth/acebook-poke">Acebook</a></td>
       <td align="left">Facebook Clone</td>
       <td align="left">AJAX, Express, MongoDB, JavaScript, Cypress, Jest</td>
-      <td align="center">5 Devs, 5 QAs</td>
+      <td align="center">4 Devs, 4 QAs</td>
     </tr>
     <tr>
-      <td align="left">DevDuel</td>
-      <td align="left">Top Trumps</td>
-      <td align="left">React, Websocket, TypeScript, Cypress</td>
+      <td align="left"><a href="https://github.com/Saamiya96/frontend-devDuel">DevDuel</a></td>
+      <td align="left">Top Trumps clone</td>
+      <td align="left">React, Flask, Socket.io, TypeScript, Cypress, Jest</td>
       <td align="center">5</td>
     </tr>
   </tbody>
