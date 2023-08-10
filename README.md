@@ -69,7 +69,7 @@ Setup guides and resources.
   <tbody>
     <tr>
       <td align="left"><a href="https://github.com/Mentor-Pathway/mentor-platform">Mentor Pathway</a></td>
-      <td align="left">Enable mentors to track and review the work of their mentees</td>
+      <td align="left">Mentors track mentees</td>
       <td align="left">Postgres, Rails, RSpec, Tailwind</td>
       <td align="center">6</td>
     </tr>
@@ -88,7 +88,7 @@ Setup guides and resources.
     <tr>
       <td align="left"><a href="https://github.com/adrianHards/rails-trace">Trace</a></td>
       <td align="left">Digital Scavenger Hunt Game</td>
-      <td align="left">Rails, Postgres, AJAX</td>
+      <td align="left">Rails, Postgres, Stimulus, AJAX</td>
       <td align="center">3</td>
     </tr>
     <tr>
@@ -101,6 +101,12 @@ Setup guides and resources.
       <td align="left"><a href="https://github.com/Saamiya96/frontend-devDuel">DevDuel</a></td>
       <td align="left">Top Trumps clone</td>
       <td align="left">React, Flask, Socket.io, TypeScript, Cypress, Jest</td>
+      <td align="center">5</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/adrianHards/rails-whippet-good">Whippet Good</a></td>
+      <td align="left">AirBnB Clone</td>
+      <td align="left">Rails, Postgres, Stimulus, JavaScript</td>
       <td align="center">5</td>
     </tr>
   </tbody>
