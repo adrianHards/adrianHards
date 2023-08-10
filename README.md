@@ -91,7 +91,7 @@ Setup guides and resources.
     </tr>
     <tr>
       <td align="left"><a href="https://github.com/adrianHards/rails-trace">Trace</a></td>
-      <td align="left">Digital Scavenger Hunt Game</td>
+      <td align="left">Digital Scavenger Hunt</td>
       <td align="left">AJAX, Rails, Postgres, Stimulus</td>
       <td align="center">3</td>
     </tr>
