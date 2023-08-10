@@ -53,7 +53,7 @@ Setup guides and resources.
 
 <br>
  
-### Projects I've Contributed To
+### Other Projects I've Contributed To
 
 <table>
   <thead>
