@@ -1,4 +1,4 @@
-### Hello, World!
+## Hello, World!
 
 I enjoy creating [web apps](https://adrianhards.github.io/) and _how to_ guides. Feel free to [reach](https://www.linkedin.com/in/adrianhards/) out if you'd like to connect. Thanks for visiting!
 
@@ -32,7 +32,7 @@ A selection of hackathons I have participated in to date.
 ## Guides
 
 ### Frameworks & Libraries
-Setup guides and resources on how to learn front-end development.
+Setup guides and resources. 
 
 <div align="left">
 
@@ -55,7 +55,53 @@ Setup guides and resources on how to learn front-end development.
 
 <br>
  
-<div align="left">
+### Projects I've Contributed To
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Title</th>
+      <th align="center">Description</th>
+      <th align="center">Technologies</th>
+      <th align="center">Team Of</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><a href="https://github.com/adrianHards/flask-chitter">Chitter</a></td>
+      <td align="left">A Twitter clone</td>
+      <td align="left">Websocket, Flask, Python, Jest, Socket.io</td>
+      <td align="center">Solo</td>
+    </tr>
+    <tr>
+      <td align="left">Reminder</td>
+      <td align="left">Apple Reminder clone</td>
+      <td align="left">Hotwire, Rails, Tailwind</td>
+      <td align="center">Solo</td>
+    </tr>
+    <tr>
+      <td align="left">Trace</td>
+      <td align="left">Digital Scavenger Hunt Game</td>
+      <td align="left">Rails, Postgres, AJAX</td>
+      <td align="center">3</td>
+    </tr>
+    <tr>
+      <td align="left">Acebook</td>
+      <td align="left">Facebook Clone</td>
+      <td align="left">AJAX, Express, MongoDB, JavaScript, Cypress, Jest</td>
+      <td align="center">5 Devs, 5 QAs</td>
+    </tr>
+    <tr>
+      <td align="left">DevDuel</td>
+      <td align="left">Top Trumps</td>
+      <td align="left">React, Websocket, TypeScript, Cypress</td>
+      <td align="center">5</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br>
 
 <!-- [![](https://badges.peiyuan.ch/leetcode/puiiyuen/ranking?label=LeetCode&logo=leetcode)](https://leetcode.com/adrianLeetCode)
 <img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=all">
