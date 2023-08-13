@@ -52,63 +52,68 @@ Setup guides and resources.
 </div>
 
 <br>
- 
+
 ### Other Projects I've Contributed To
 
-<table>
-  <thead>
-    <tr>
-      <th align="center">Title</th>
-      <th align="center">Description</th>
-      <th align="center">Technologies</th>
-      <th align="center">Team Of</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left"><a href="https://github.com/Loo-Ashworth/acebook-poke">Acebook</a></td>
-      <td align="left">Facebook Clone</td>
-      <td align="left">AJAX, Cypress, Express, JavaScript, Jest, MongoDB</td>
-      <td align="center">4 Devs, 4 QAs</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/adrianHards/flask-chitter">Chitter</a></td>
-      <td align="left">A Twitter Clone</td>
-      <td align="left">Flask, Jest, Peewee (ORM), Python, Socket.io</td>
-      <td align="center">Solo</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/Saamiya96/frontend-devDuel">DevDuel</a></td>
-      <td align="left">Top Trumps Clone</td>
-      <td align="left">Cypress, Flask, Jest, React, REST API, Socket.io, TypeScript</td>
-      <td align="center">5</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/adrianHards/hotwire-reminder">Reminder</a></td>
-      <td align="left">Apple Reminders Clone</td>
-      <td align="left">Rails, Tailwind, Turbo</td>
-      <td align="center">Solo</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/adrianHards/rails-trace">Trace</a></td>
-      <td align="left">Digital Scavenger Hunt</td>
-      <td align="left">AJAX, Rails, Postgres, Stimulus</td>
-      <td align="center">3</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/adrianHards/rails-whippet-good">Whippet Good</a></td>
-      <td align="left">AirBnB Clone</td>
-      <td align="left">JavaScript, Rails, Postgres, Stimulus</td>
-      <td align="center">5</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/Mentor-Pathway/mentor-platform">Mentor Pathway</a></td>
-      <td align="left">Mentors Track Mentees</td>
-      <td align="left">Postgres, Rails, RSpec, Tailwind</td>
-      <td align="center">6</td>
-    </tr>
-  </tbody>
-</table>
+<details>
+  <summary>Click Here</summary>
+  
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Title</th>
+        <th align="center">Description</th>
+        <th align="center">Technologies</th>
+        <th align="center">Team Of</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="left"><a href="https://github.com/Loo-Ashworth/acebook-poke">Acebook</a></td>
+        <td align="left">Facebook Clone</td>
+        <td align="left">AJAX, Cypress, Express, JavaScript, Jest, MongoDB</td>
+        <td align="center">4 Devs, 4 QAs</td>
+      </tr>
+      <tr>
+        <td align="left"><a href="https://github.com/adrianHards/flask-chitter">Chitter</a></td>
+        <td align="left">A Twitter Clone</td>
+        <td align="left">Flask, Jest, Peewee (ORM), Python, Socket.io</td>
+        <td align="center">Solo</td>
+      </tr>
+      <tr>
+        <td align="left"><a href="https://github.com/Saamiya96/frontend-devDuel">DevDuel</a></td>
+        <td align="left">Top Trumps Clone</td>
+        <td align="left">Cypress, Flask, Jest, React, REST API, Socket.io, TypeScript</td>
+        <td align="center">5</td>
+      </tr>
+      <tr>
+        <td align="left"><a href="https://github.com/adrianHards/hotwire-reminder">Reminder</a></td>
+        <td align="left">Apple Reminders Clone</td>
+        <td align="left">Rails, Tailwind, Turbo</td>
+        <td align="center">Solo</td>
+      </tr>
+      <tr>
+        <td align="left"><a href="https://github.com/adrianHards/rails-trace">Trace</a></td>
+        <td align="left">Digital Scavenger Hunt</td>
+        <td align="left">AJAX, Rails, Postgres, Stimulus</td>
+        <td align="center">3</td>
+      </tr>
+      <tr>
+        <td align="left"><a href="https://github.com/adrianHards/rails-whippet-good">Whippet Good</a></td>
+        <td align="left">AirBnB Clone</td>
+        <td align="left">JavaScript, Rails, Postgres, Stimulus</td>
+        <td align="center">5</td>
+      </tr>
+      <tr>
+        <td align="left"><a href="https://github.com/Mentor-Pathway/mentor-platform">Mentor Pathway</a></td>
+        <td align="left">Mentors Track Mentees</td>
+        <td align="left">Postgres, Rails, RSpec, Tailwind</td>
+        <td align="center">6</td>
+      </tr>
+    </tbody>
+  </table>
+
+</details>
 
 <br>
 
