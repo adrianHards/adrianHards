@@ -76,7 +76,7 @@ Setup guides and resources.
       <tr>
         <td align="left"><sub><a href="https://github.com/adrianHards/flask-chitter">Chitter</a></sub></td>
         <td align="left"><sub>A Twitter Clone</sub></td>
-        <td align="left"><sub>Flask, Jest, Peewee (ORM), Python, Socket.io</sub></td>
+        <td align="left"><sub>Flask, Jest, Peewee ORM, Python, Socket.io</sub></td>
         <td align="center"><sub>Solo</sub></td>
       </tr>
       <tr>
