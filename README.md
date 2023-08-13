@@ -34,7 +34,7 @@ Setup guides and resources.
 
 <div align="left">
 
-<table>
+<table style="font-size: smaller;">
   <thead>
     <tr>
       <th align="center"><a href="https://github.com/adrianHards/learning-rails">Rails</a></th>
