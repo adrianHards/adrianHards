@@ -34,7 +34,7 @@ Setup guides and resources.
 
 <div align="left">
 
-<table style="font-size: smaller;">
+<table>
   <thead>
     <tr>
       <th align="center"><a href="https://github.com/adrianHards/learning-rails">Rails</a></th>
@@ -56,59 +56,58 @@ Setup guides and resources.
 ### Other Projects I've Contributed To
 
 <details>
-  <summary>Click Here</summary>
-  
+  <summary>Click Here to Expand</summary>
   <table>
     <thead>
       <tr>
-        <th align="center">Title</th>
-        <th align="center">Description</th>
-        <th align="center">Technologies</th>
-        <th align="center">Team Of</th>
+        <th align="center"><sub>Title</sub></th>
+        <th align="center"><sub>Description</sub></th>
+        <th align="center"><sub>Technologies</sub></th>
+        <th align="center"><sub>Team Of</sub></th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td align="left"><a href="https://github.com/Loo-Ashworth/acebook-poke">Acebook</a></td>
-        <td align="left">Facebook Clone</td>
-        <td align="left">AJAX, Cypress, Express, JavaScript, Jest, MongoDB</td>
-        <td align="center">4 Devs, 4 QAs</td>
+        <td align="left"><sub><a href="https://github.com/Loo-Ashworth/acebook-poke">Acebook</a></sub></td>
+        <td align="left"><sub>Facebook Clone</sub></td>
+        <td align="left"><sub>AJAX, Cypress, Express, JavaScript, Jest, MongoDB</sub></td>
+        <td align="center"><sub>4 Devs, 4 QAs</sub></td>
       </tr>
       <tr>
-        <td align="left"><a href="https://github.com/adrianHards/flask-chitter">Chitter</a></td>
-        <td align="left">A Twitter Clone</td>
-        <td align="left">Flask, Jest, Peewee (ORM), Python, Socket.io</td>
-        <td align="center">Solo</td>
+        <td align="left"><sub><a href="https://github.com/adrianHards/flask-chitter">Chitter</a></sub></td>
+        <td align="left"><sub>A Twitter Clone</sub></td>
+        <td align="left"><sub>Flask, Jest, Peewee (ORM), Python, Socket.io</sub></td>
+        <td align="center"><sub>Solo</sub></td>
       </tr>
       <tr>
-        <td align="left"><a href="https://github.com/Saamiya96/frontend-devDuel">DevDuel</a></td>
-        <td align="left">Top Trumps Clone</td>
-        <td align="left">Cypress, Flask, Jest, React, REST API, Socket.io, TypeScript</td>
-        <td align="center">5</td>
+        <td align="left"><sub><a href="https://github.com/Saamiya96/frontend-devDuel">DevDuel</a></sub></td>
+        <td align="left"><sub>Top Trumps Clone</sub></td>
+        <td align="left"><sub>Cypress, Flask, Jest, React, REST API, Socket.io, TypeScript</sub></td>
+        <td align="center"><sub>5</sub></td>
       </tr>
       <tr>
-        <td align="left"><a href="https://github.com/adrianHards/hotwire-reminder">Reminder</a></td>
-        <td align="left">Apple Reminders Clone</td>
-        <td align="left">Rails, Tailwind, Turbo</td>
-        <td align="center">Solo</td>
+        <td align="left"><sub><a href="https://github.com/adrianHards/hotwire-reminder">Reminder</a></sub></td>
+        <td align="left"><sub>Apple Reminders Clone</sub></td>
+        <td align="left"><sub>Rails, Tailwind, Turbo</sub></td>
+        <td align="center"><sub>Solo</sub></td>
       </tr>
       <tr>
-        <td align="left"><a href="https://github.com/adrianHards/rails-trace">Trace</a></td>
-        <td align="left">Digital Scavenger Hunt</td>
-        <td align="left">AJAX, Rails, Postgres, Stimulus</td>
-        <td align="center">3</td>
+        <td align="left"><sub><a href="https://github.com/adrianHards/rails-trace">Trace</a></sub></td>
+        <td align="left"><sub>Digital Scavenger Hunt</sub></td>
+        <td align="left"><sub>AJAX, Rails, Postgres, Stimulus</sub></td>
+        <td align="center"><sub>3</sub></td>
       </tr>
       <tr>
-        <td align="left"><a href="https://github.com/adrianHards/rails-whippet-good">Whippet Good</a></td>
-        <td align="left">AirBnB Clone</td>
-        <td align="left">JavaScript, Rails, Postgres, Stimulus</td>
-        <td align="center">5</td>
+        <td align="left"><sub><a href="https://github.com/adrianHards/rails-whippet-good">Whippet Good</a></sub></td>
+        <td align="left"><sub>AirBnB Clone</sub></td>
+        <td align="left"><sub>JavaScript, Rails, Postgres, Stimulus</sub></td>
+        <td align="center"><sub>5</sub></td>
       </tr>
       <tr>
-        <td align="left"><a href="https://github.com/Mentor-Pathway/mentor-platform">Mentor Pathway</a></td>
-        <td align="left">Mentors Track Mentees</td>
-        <td align="left">Postgres, Rails, RSpec, Tailwind</td>
-        <td align="center">6</td>
+        <td align="left"><sub><a href="https://github.com/Mentor-Pathway/mentor-platform">Mentor Pathway</a></sub></td>
+        <td align="left"><sub>Mentors Track Mentees</sub></td>
+        <td align="left"><sub>Postgres, Rails, RSpec, Tailwind</sub></td>
+        <td align="center"><sub>6</sub></td>
       </tr>
     </tbody>
   </table>
