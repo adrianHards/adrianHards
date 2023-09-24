@@ -46,7 +46,6 @@ Setup guides and resources.
 
 </div>
 
-<!-- 
 ### Other Projects I've Contributed To
 
 <details>
@@ -106,21 +105,9 @@ Setup guides and resources.
     </tbody>
   </table>
 
-</details>
-
-<br>
-
-[![](https://badges.peiyuan.ch/leetcode/puiiyuen/ranking?label=LeetCode&logo=leetcode)](https://leetcode.com/adrianLeetCode)
-<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=all">
-<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=easy">
-<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=medium">
-<img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=hard">
-
-<br>
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianhards" id="counter">
 </p>
- -->
+
 
 
