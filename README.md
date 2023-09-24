@@ -1,11 +1,11 @@
 ## Hello, World!
 
-I enjoy creating [web apps](https://adrianhards.github.io/) and _how to_ guides. Feel free to [reach](https://www.linkedin.com/in/adrianhards/) out if you'd like to connect. Thanks for visiting!
+I enjoy creating [web apps](https://adrianhards.github.io/) and _how to_ guides. Feel free to [reach](https://www.linkedin.com/in/adrianhards/) out if you'd like to connect.
 
 <br>
 
 ## Hackathons
-A selection of hackathons I've participated in to date.
+A selection of hackathons I've participated in.
 
 <table>
   <thead>
