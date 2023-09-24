@@ -105,6 +105,8 @@ Setup guides and resources.
     </tbody>
   </table>
 
+</details>
+
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianhards" id="counter">
 </p>
