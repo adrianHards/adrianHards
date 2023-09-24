@@ -2,8 +2,6 @@
 
 I enjoy creating [web apps](https://www.ahards.com/) and how to guides. Feel free to [reach](https://www.linkedin.com/in/adrianhards/) out if you'd like to connect.
 
-<br>
-
 ## Hackathons
 A selection of hackathons I've participated in.
 
@@ -23,8 +21,6 @@ A selection of hackathons I've participated in.
     </tr>
   </tbody>
 </table>
-
-<br>
 
 ## Guides
 
