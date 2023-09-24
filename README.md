@@ -1,6 +1,6 @@
 ## Hello, World!
 
-I enjoy creating [web apps](https://ahards.com/) and guides. Feel free to [reach](https://www.linkedin.com/in/adrianhards/) out if you'd like to connect.
+I enjoy creating [web apps](https://www.ahards.com/) and guides. Feel free to [reach](https://www.linkedin.com/in/adrianhards/) out if you'd like to connect.
 
 <br>
 
