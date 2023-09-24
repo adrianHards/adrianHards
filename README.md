@@ -1,6 +1,6 @@
 ## Hello, World!
 
-I enjoy creating [web apps](https://adrianhards.github.io/) and _how to_ guides. Feel free to [reach](https://www.linkedin.com/in/adrianhards/) out if you'd like to connect.
+I enjoy creating [web apps](https://ahards.com/) and guides. Feel free to [reach](https://www.linkedin.com/in/adrianhards/) out if you'd like to connect.
 
 <br>
 
@@ -24,7 +24,6 @@ A selection of hackathons I've participated in.
   </tbody>
 </table>
 
-<br>
 <br>
 
 ## Guides
@@ -51,8 +50,7 @@ Setup guides and resources.
 
 </div>
 
-<br>
-
+<!-- 
 ### Other Projects I've Contributed To
 
 <details>
@@ -116,15 +114,17 @@ Setup guides and resources.
 
 <br>
 
-<!-- [![](https://badges.peiyuan.ch/leetcode/puiiyuen/ranking?label=LeetCode&logo=leetcode)](https://leetcode.com/adrianLeetCode)
+[![](https://badges.peiyuan.ch/leetcode/puiiyuen/ranking?label=LeetCode&logo=leetcode)](https://leetcode.com/adrianLeetCode)
 <img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=all">
 <img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=easy">
 <img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=medium">
 <img src="https://badges.peiyuan.ch/leetcode/adrianLeetCode/solved?difficulty=hard">
- -->
 
 <br>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianhards" id="counter">
 </p>
+ -->
+
+
