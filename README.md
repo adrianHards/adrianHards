@@ -5,7 +5,7 @@ I enjoy creating [web apps](https://adrianhards.github.io/) and _how to_ guides.
 <br>
 
 ## Hackathons
-A selection of hackathons I have participated in to date.
+A selection of hackathons I've participated in to date.
 
 <table>
   <thead>
